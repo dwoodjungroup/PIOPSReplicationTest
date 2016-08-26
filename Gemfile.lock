@@ -1,0 +1,26 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    aws-sdk (2.5.2)
+      aws-sdk-resources (= 2.5.2)
+    aws-sdk-core (2.5.2)
+      jmespath (~> 1.0)
+    aws-sdk-resources (2.5.2)
+      aws-sdk-core (= 2.5.2)
+    concurrent-ruby (1.0.2-java)
+    jdbc-mysql (5.1.38)
+    jmespath (1.3.1)
+
+PLATFORMS
+  java
+
+DEPENDENCIES
+  aws-sdk
+  concurrent-ruby
+  jdbc-mysql
+
+RUBY VERSION
+   ruby 2.3.0p0 (jruby 9.1.2.0)
+
+BUNDLED WITH
+   1.12.5

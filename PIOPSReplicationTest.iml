@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="mysql:mysql-connector-java:5.1.39" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="aws-sdk (v2.5.2, RVM: jruby-9.1.2.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="aws-sdk-core (v2.5.2, RVM: jruby-9.1.2.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="aws-sdk-resources (v2.5.2, RVM: jruby-9.1.2.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.12.5, RVM: jruby-9.1.2.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="concurrent-ruby (v1.0.2, RVM: jruby-9.1.2.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jdbc-mysql (v5.1.38, RVM: jruby-9.1.2.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jmespath (v1.3.1, RVM: jruby-9.1.2.0) [gem]" level="application" />
+  </component>
+</module>
